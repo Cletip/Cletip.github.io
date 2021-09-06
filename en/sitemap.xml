@@ -398,14 +398,6 @@
   </url>
   
   <url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/blog/test/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/posts/test/</loc>
-  </url>
-  
-  <url>
     <loc>https://hugo-future-imperfect-slim.netlify.app/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -427,10 +419,6 @@
                 hreflang="en"
                 href="https://hugo-future-imperfect-slim.netlify.app/contact/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/posts/</loc>
   </url>
   
 </urlset>
